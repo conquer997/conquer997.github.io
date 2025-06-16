@@ -28,3 +28,8 @@ I am a first year PhD student at Fudan University(复旦大学) and Shanghai Inn
 * [2024.07] One paper is accepted by IGARSS 2024 ([*CMSF*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10641325))!
 * [2024.06] Win the Outstanding Graduate of Shanghai (*top 3%*)!
 
+📝 Publications
+======
+My full paper list can be found at <a href="https://scholar.google.com/citations?user=GA0gV5cAAAAJ&hl=zh-CN">
+  <img src="https://img.shields.io/endpoint?url=https://api.scholar-badges.vercel.app/citations?userId=YOURUSERID&style=flat&logo=google-scholar&logoColor=white&label=Citations&labelColor=4285F4&color=4285F4">
+</a>
