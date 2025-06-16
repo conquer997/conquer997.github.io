@@ -24,9 +24,9 @@ I am a first year PhD student at Fudan University(复旦大学) and Shanghai Inn
 
 🔥 News
 ======
-* [2025.01] One paper is accepted by remote sensing ([*STPA-RCNN*](https://www.mdpi.com/2072-4292/17/1/112))!
-* [2024.07] One paper is accepted by IGARSS 2024 ([*CMSF*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10641325))!
-* [2024.06] Win the Outstanding Graduate of Shanghai (*top 3%*)!
+* [2025.01] One paper is accepted by remote sensing ([**STPA-RCNN**](https://www.mdpi.com/2072-4292/17/1/112))!
+* [2024.07] One paper is accepted by IGARSS 2024 ([**CMSF**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10641325))!
+* [2024.06] Win the Outstanding Graduate of Shanghai (**top 3%**)!
 
 📝 Publications
 ======
