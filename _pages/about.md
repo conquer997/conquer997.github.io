@@ -31,7 +31,7 @@ I am a first year PhD student at Fudan University(复旦大学) and Shanghai Inn
 📝 Publications
 ======
 My full paper list can be found at <a href="https://scholar.google.com/citations?user=GA0gV5cAAAAJ&hl=zh-CN">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Citations&query=citationCount&url=https://api.scholarly.vercel.app/author/GA0gV5cAAAAJ&logo=google-scholar&logoColor=white&color=4285F4">
+  <img src="https://img.shields.io/badge/Citations-1229-4285F4?logo=google-scholar&logoColor=white">
 </a>
 
 
