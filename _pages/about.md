@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "😄About Me"
+title: "🍀Ziqi Ye's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+😄About Me
+======
 I am a first year PhD student at Fudan University(复旦大学) and Shanghai Innovation Institute(上海创智学院), adviced by Prof. [Haipeng Wang](http://www.it.fudan.edu.cn/Data/View/1051), Prof. [Xue Yang](https://yangxue.site/), and Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Recently, I have mainly been engaged in scientific research and study at [VisionXLab](https://github.com/VisionXLab).
 
 🌏 Research Topics
@@ -24,9 +26,9 @@ I am a first year PhD student at Fudan University(复旦大学) and Shanghai Inn
 
 🔥 News
 ======
-* [2025.01] One paper is accepted by remote sensing (**[STPA-RCNN](https://www.mdpi.com/2072-4292/17/1/112)**)!
-* [2024.07] One paper is accepted by IGARSS 2024 (**[CMSF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10641325)**)!
-* [2024.06] Win the Outstanding Graduate of Shanghai (**top 3%**)!
+* [2025.01] One paper is accepted by remote sensing (**[STPA-RCNN](https://www.mdpi.com/2072-4292/17/1/112)**)🎉🎉
+* [2024.07] One paper is accepted by IGARSS 2024 (**[CMSF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10641325)**)🎉🎉
+* [2024.06] Win the Outstanding Graduate of Shanghai (**top 3%**)🎉🎉
 
 📝 Publications
 ======
