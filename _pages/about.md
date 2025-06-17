@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Hello! Welcome to my homepage!
+
 😄About Me
 ======
 I am a first year PhD student at Fudan University(复旦大学) and Shanghai Innovation Institute(上海创智学院), adviced by Prof. [Haipeng Wang](http://www.it.fudan.edu.cn/Data/View/1051), Prof. [Xue Yang](https://yangxue.site/), and Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Recently, I have mainly been engaged in scientific research and study at [VisionXLab](https://github.com/VisionXLab).
